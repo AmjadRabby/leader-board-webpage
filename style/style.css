@@ -1,0 +1,33 @@
+html {
+  scroll-behavior: smooth;
+}
+.brand-logo {
+  width: 40px;
+}
+.profile-logo {
+  width: 51px;
+}
+.header ul li {
+  padding-left: 15px;
+}
+.blog-img {
+  width: 240px;
+  height: 125px;
+}
+.star-img {
+  width: 15px;
+  margin-left: 2px;
+}
+.course-hr {
+  background-color: #ed6c4f4f;
+  padding: 2px 10px;
+  border-radius: 20px;
+  color: #ff4a60;
+}
+.course-hr img {
+  width: 20px;
+}
+.card {
+  padding: 15px;
+  border-radius: 20px !important;
+}
